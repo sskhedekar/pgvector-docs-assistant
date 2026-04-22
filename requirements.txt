@@ -1,0 +1,6 @@
+psycopg[binary]
+pymupdf
+openai
+python-dotenv
+pgvector
+
