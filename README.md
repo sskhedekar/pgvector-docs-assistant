@@ -83,7 +83,7 @@ Exits with code 0 if all checks pass, code 1 if any fail.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/pgvector-docs-assistant.git
+   git clone https://github.com/sskhedekar/pgvector-docs-assistant.git
    cd pgvector-docs-assistant
    ```
 
@@ -128,6 +128,10 @@ Exits with code 0 if all checks pass, code 1 if any fail.
    ```bash
    python src/query.py
    ```
+
+## Demo
+
+![pgvector-docs-assistant demo](assets/demo.png)
 
 ## Usage
 
